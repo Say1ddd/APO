@@ -1,0 +1,2 @@
+Channel: all
+Preamp: 10 dB

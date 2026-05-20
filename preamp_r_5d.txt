@@ -1,0 +1,2 @@
+Channel: R
+Preamp: 5 dB
